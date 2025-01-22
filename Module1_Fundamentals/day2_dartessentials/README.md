@@ -2,4 +2,4 @@
 
 # Lessons from Day2
 - Learnt how to work with lists
-- 
+- Learnt how to work with maps
