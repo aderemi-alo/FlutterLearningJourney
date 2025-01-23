@@ -6,3 +6,4 @@
 - Learnt how to utlize arrow syntax for functions.
 - Learnt how to utilize ternary operators.
 - Learnt how to utilize loops.
+- Learnt how to utilize exceptions. Including try, catch, on and finally blocks
