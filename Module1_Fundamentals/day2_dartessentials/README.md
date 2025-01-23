@@ -4,3 +4,4 @@
 - Learnt how to work with lists.
 - Learnt how to work with maps.
 - Learnt how to utlize arrow syntax for functions.
+- Learnt how to utilize ternary operators.
