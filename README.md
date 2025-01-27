@@ -6,3 +6,4 @@ This repository contains my progress as I learn Flutter. Each module represents 
 - `Module1_Fundamentals/`: Basic concepts of Flutter and Dart.
     - `day1_helloworld/` : Built a hello world application
     - `day2_dartexercises/`: Practiced dart essentials such as lists, variables, maps, loops, etc using exercises.
+    - `day3_staticprofile/`: Built a simple static profile in dart
